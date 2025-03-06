@@ -9,8 +9,10 @@ Project demonstrates how to install Active Directory Users and Computers using S
 
 <h2>Languages and Utilities Used</h2>
 
+- <b>Microsoft Azure</b>
 - <b>Server Manager</b> 
 - <b>Active Directory</b>
+- <b>Remote Desktop</b>
 
 <h2>Environments Used </h2>
 
