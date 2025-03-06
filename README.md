@@ -19,18 +19,13 @@ Project demonstrates how to install Active Directory Users and Computers using S
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch Server Manager: <br/>
+Launch Server Manager, select "Add roles and Features": <br/>
   
 ![image](https://github.com/user-attachments/assets/93531a7f-87e0-4b22-ac14-b85ac5b9f9b4)
 
 <br />
 <br />
-Click "Add roles and features":  <br/>
 
-![image](https://github.com/user-attachments/assets/66310393-f1d1-4334-b6d9-072e537d9d08)
-
-<br />
-<br />
 Select Destination Server: <br/>
 
 ![image](https://github.com/user-attachments/assets/98e70625-650c-4ede-bd93-6e07ea528c9f)
