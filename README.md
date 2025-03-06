@@ -14,7 +14,7 @@ Project demonstrates how to install Active Directory Users and Computers using S
 
 <h2>Environments Used </h2>
 
-- <b>Windows 2022</b> (21H2)
+- <b>Windows 2022</b> 
 
 <h2>Program walk-through:</h2>
 
